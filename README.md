@@ -14,6 +14,7 @@ using GPU and it took about 40 min.
 ```
 Jupyter: speedchallenge_cnn.ipynb
 ```
+**Note** The labels are incorrect/swapped. The predicted speed is the janky output in blue while the actual speed is in orange.
 ![CNN Graph](https://github.com/suvodeep-pyne/comma-speed-challenge/raw/master/cnn.png)
 
 ## CNN RNN Approach
