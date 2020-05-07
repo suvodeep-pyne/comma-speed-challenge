@@ -14,6 +14,7 @@ using GPU and it took about 40 min.
 ```
 Jupyter: speedchallenge_cnn.ipynb
 ```
+![CNN Graph](https://github.com/suvodeep-pyne/comma-speed-challenge/raw/master/cnn.png)
 
 ## CNN RNN Approach
 This uses a TimeDistributed CNN layer feeding into a single RNN layer followed by FCs.
@@ -29,3 +30,4 @@ doesn't seem to be a problem.
 ```
 Jupyter: speedchallenge_cnnrnn.ipynb
 ```
+![CNN RNN Graph](https://github.com/suvodeep-pyne/comma-speed-challenge/raw/master/cnnrnn.png)
